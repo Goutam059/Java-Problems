@@ -35,7 +35,8 @@ for(int i=0;i<arr.length;i++)
 		if(arr[i][j]>max) {
 			max=arr[i][j];
 			System.out.println("max1 "+max);
-			
+			System.out.println("max1 "+max);
+
 		}
 		
 		
